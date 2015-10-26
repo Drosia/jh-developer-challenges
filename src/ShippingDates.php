@@ -5,7 +5,7 @@ namespace Jh\Shipping;
  * Class ShippingDates                          
  * @package Jh\Shipping
  */
-class ShippingDates 
+class ShippingDates implements ShippingDatesInterface
 {
 
     /**
